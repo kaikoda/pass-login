@@ -7,8 +7,5 @@ this application was developed for a prototyping
 on the 12/10/2026 by me(kaikoda@github)
 
 email: for further info e-mail,
- here-> kaiouti12@gmail.com
-
- Any suggestions for the program/application
- send it through on github user-> "kaikoda"
+ here-> k...@gmail.com
 
