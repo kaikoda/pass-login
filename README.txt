@@ -12,3 +12,4 @@ email: for further info e-mail,
  Any suggestions for the program/application
  send it through on github user-> "kaikoda"
 
+Meta date: 2026-10-12
