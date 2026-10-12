@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>PassLogin</RootNamespace>
+    <AssemblyName>PassLogin</AssemblyName>
+    <StartupObject>PassLogin.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- QR Code Library -->
+    <PackageReference Include="QRCoder" Version="1.4.3" />
+    
+    <!-- Optional: For camera/biometric integration -->
+    <!-- <PackageReference Include="EmguCV" Version="4.7.0" /> -->
+    <!-- <PackageReference Include="Windows.AI.Vision.ImageAnalysis" Version="1.0.0" /> -->
+  </ItemGroup>
+
+</Project>
